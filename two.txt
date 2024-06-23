@@ -1,1 +1,1 @@
-second file in git 
+second file in git and changes in files
