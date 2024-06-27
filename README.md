@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Aymaan Pathan</h1>
 <h3 align="center">Passionate Full-Stack Developer from India</h3>
 
-<img width="50%" height="50%" src="./animated.gif" alt="" align="right" />
+<img width="30%" height="30%" src="./animated.gif" alt="" align="right" />
 
 <ul>
   <li>
