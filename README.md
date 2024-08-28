@@ -26,19 +26,11 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://linkedin.com/in/pathan aymaan" target="blank"
+  <a href="https://linkedin.com/in/pathan-aymaan" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="pathan aymaan"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://fb.com/aymaan pathan" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="aymaan pathan"
       height="30"
       width="40"
   /></a>
