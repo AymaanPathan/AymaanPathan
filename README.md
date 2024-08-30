@@ -12,7 +12,7 @@
   />
 </p>
 
-- 🔭 I’m currently working on **Ai-Chat Bot** - 🌱 I’m currently learning
+- 🌱 I’m currently learning
 **Express, Node and its Frameworks** - 👯 I’m looking to collaborate on
 **Open-Source** - 📫 How to reach me **aymaanpathan5@gmail.com**
 
