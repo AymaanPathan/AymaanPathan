@@ -1,6 +1,6 @@
 ![logo](https://github.com/AymaanPathan/AymaanPathan/blob/master/banner.png)
 
-<h1 align="center">Hi 👋, I'm Aymaan Pathan</h1>
+<h1 align="center">Hi👋, I'm Aymaan Pathan</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
 <p align="left">
