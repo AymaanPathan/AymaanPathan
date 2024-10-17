@@ -11,7 +11,7 @@
 </p>
 
 - 🌱 I’m currently learning
-**Express, Node and its Frameworks** - 👯 I’m looking to collaborate on
+**Express, Node and Javascript Frameworks** - 👯 I’m looking to collaborate on
 **Open-Source** - 📫 How to reach me **aymaanpathan5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
