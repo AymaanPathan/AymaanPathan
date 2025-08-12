@@ -14,7 +14,7 @@
 **Express, Node and Javascript Frameworks** - 👯 I’m looking to collaborate on
 **Open-Source** - 📫 How to reach me **aymaanpathan5@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on Socials:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/pathan-aymaan" target="blank"
     ><img
