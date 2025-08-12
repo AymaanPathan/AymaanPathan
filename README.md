@@ -62,7 +62,6 @@
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo" />
   <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
   <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo" />
