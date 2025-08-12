@@ -67,7 +67,7 @@
   <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo" />
 </div>
 
-
+---
 <p>
   <img
     align="left"
