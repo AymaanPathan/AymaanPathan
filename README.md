@@ -64,7 +64,6 @@
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
   <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo" />
   <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo" />
-  <img src="https://skillicons.dev/icons?i=sequelize" height="40" alt="sequelize logo" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
   <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo" />
 </div>
