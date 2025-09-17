@@ -66,28 +66,3 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
   <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo" />
 </div>
-
----
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=aymaanpathan&show_icons=true&locale=en&layout=compact"
-    alt="aymaanpathan"
-  />
-</p>
-
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=aymaanpathan&show_icons=true&locale=en"
-    alt="aymaanpathan"
-  />
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=aymaanpathan&"
-    alt="aymaanpathan"
-  />
-</p>
