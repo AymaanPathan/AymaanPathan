@@ -1,8 +1,6 @@
 ![logo](https://github.com/AymaanPathan/AymaanPathan/blob/master/banner.png)
-
 <h1 align="center">Hi👋, I'm Aymaan Pathan</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
-
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=aymaanpathan&label=Profile%20views&color=0e75b6&style=flat"
@@ -10,9 +8,9 @@
   />
 </p>
 
-- 🌱 I’m currently learning
-**Express, Node and Javascript Frameworks** - 👯 I’m looking to collaborate on
-**Open-Source** - 📫 How to reach me **aymaanpathan5@gmail.com**
+- 🌱 I'm currently learning **Express, Node and Javascript Frameworks**
+- 👯 I'm looking to collaborate on **Open-Source**
+- 📫 How to reach me **aymaanpathan5@gmail.com**
 
 <h3 align="left">Connect with me on Socials:</h3>
 <p align="left">
@@ -66,3 +64,18 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
   <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo" />
 </div>
+
+<br/>
+
+<h3 align="left">📊 GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AymaanPathan&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AymaanPathan&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymaanPathan&layout=compact&theme=radical" alt="Top Languages" />
+</p>
