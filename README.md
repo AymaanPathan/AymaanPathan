@@ -8,9 +8,9 @@
   />
 </p>
 
-- 🌱 I'm currently learning **Express, Node and Javascript Frameworks**
-- 👯 I'm looking to collaborate on **Open-Source**
-- 📫 How to reach me **aymaanpathan5@gmail.com**
+- A full-stack developer who enjoys turning ideas into clean, usable products
+- Curious about how systems behave at scale and how small design choices matter
+- I work with queues, background jobs, cron schedules, caching layers, APIs, and real-time flows (tip: it's always DNS or the cache)
 
 <h3 align="left">Connect with me on Socials:</h3>
 <p align="left">
