@@ -7,7 +7,7 @@
   />
 </p>
 
-2× global hackathon winner. Software Engineer. Still shipping, breaking, learning, and building weird things on purpose.
+2× global hackathon winner. Software Engineer. Still shipping and building weird things on purpose.
 
 <h3 align="left">Connect with me on Socials:</h3>
 <p align="left">
